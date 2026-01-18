@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Basic</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="texting_message">Hello, Sahan</string>
+</resources>
